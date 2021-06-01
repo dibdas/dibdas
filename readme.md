@@ -2,7 +2,6 @@
 
 <p><em>Preparing for Remote Full-stack web developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-<img src="screenshot.jpg">
 
 
 - 🔭 I’m currently working on HTML,CSS Projects
