@@ -1,6 +1,6 @@
 <h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"> there, I'm Dibyendu Das</h2>
 
-<p><em>Currently Preparing for and open to full-stack web developer role."https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>`Currently Preparing for and open to full-stack web developer role."https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50">`</p>
 
 
 
