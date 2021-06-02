@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on HTML,CSS Projects
+- 🔭 I’m currently working on HTML, CSS Projects
 - 🌱 I’m currently learning Full Stack Web Development
-- 🤔 I’m looking for a Job opportunity...
+- 🤔 I’m looking for a job opportunity...
 - 💬 Ask me about anything
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/dibyendu-das-b5967a1b1/), [twitter](https://twitter.com/DIBYEND78120480), [email](dibyandu08das@gmail.com)
 - 😄 Pronouns: He/Him/They
