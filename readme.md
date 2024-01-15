@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on HTML, CSS, JS, RUBY, RAILS Projects.
+- 🔭 I’m currently working on HTML, CSS, JS, NODEJS,RUBY, RAILS Projects.
 - 🌱 I’m currently learning Full Stack Web Development
 - 🤔 I’m looking for a job opportunity...
 - 💬 Ask me about anything
